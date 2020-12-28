@@ -1,0 +1,34 @@
+{
+  "homepage": "https://vinu8421293169.github.io/Mini-E-commerce-app-react",
+  "name": "react-template",
+  "version": "0.1.0",
+  "private": false,
+  "dependencies": {
+    "axios": "^0.21.1",
+    "gh-pages": "^3.1.0",
+    "node-sass": "^4.14.1",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3",
+    "react-redux": "^7.2.2",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "2.1.1",
+    "redux": "^4.0.5",
+    "terser": "3.14.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
