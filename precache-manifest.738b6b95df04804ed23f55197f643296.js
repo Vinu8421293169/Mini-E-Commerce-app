@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "a947310f2cefabdd8427",
+    "revision": "e3cfe2def3cc84b4d218",
     "url": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/css/main.687fccb3.chunk.css"
   },
   {
-    "revision": "a947310f2cefabdd8427",
-    "url": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/main.a947310f.chunk.js"
+    "revision": "e3cfe2def3cc84b4d218",
+    "url": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/main.e3cfe2de.chunk.js"
   },
   {
     "revision": "1ed06b5e83eb21e629a1",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/runtime~main.e03a78df.js"
   },
   {
-    "revision": "d7200d30ddb228f76a99552522e2eabb",
+    "revision": "8f23bfdf1ad1d145e59edaf458ad709e",
     "url": "//vinu8421293169.github.io/Mini-E-Commerce-app/index.html"
   }
 ];
