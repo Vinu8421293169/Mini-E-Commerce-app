@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Mini-E-commerce-app/precache-manifest.3abda6eebd79dee005897acac4775a0c.js"
+  "//vinu8421293169.github.io/Mini-E-Commerce-app/precache-manifest.4af0f79114cfaa80e9ccf7245fc39a5d.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/Mini-E-commerce-app/index.html", {
+workbox.routing.registerNavigationRoute("//vinu8421293169.github.io/Mini-E-Commerce-app/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

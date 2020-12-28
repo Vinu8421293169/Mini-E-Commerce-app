@@ -1,13 +1,13 @@
 {
-  "main.css": "/Mini-E-commerce-app/static/css/main.687fccb3.chunk.css",
-  "main.js": "/Mini-E-commerce-app/static/js/main.605858cc.chunk.js",
-  "main.js.map": "/Mini-E-commerce-app/static/js/main.605858cc.chunk.js.map",
-  "static/js/1.1ed06b5e.chunk.js": "/Mini-E-commerce-app/static/js/1.1ed06b5e.chunk.js",
-  "static/js/1.1ed06b5e.chunk.js.map": "/Mini-E-commerce-app/static/js/1.1ed06b5e.chunk.js.map",
-  "runtime~main.js": "/Mini-E-commerce-app/static/js/runtime~main.eb6d2e40.js",
-  "runtime~main.js.map": "/Mini-E-commerce-app/static/js/runtime~main.eb6d2e40.js.map",
-  "static/css/main.687fccb3.chunk.css.map": "/Mini-E-commerce-app/static/css/main.687fccb3.chunk.css.map",
-  "index.html": "/Mini-E-commerce-app/index.html",
-  "precache-manifest.3abda6eebd79dee005897acac4775a0c.js": "/Mini-E-commerce-app/precache-manifest.3abda6eebd79dee005897acac4775a0c.js",
-  "service-worker.js": "/Mini-E-commerce-app/service-worker.js"
+  "main.css": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/css/main.687fccb3.chunk.css",
+  "main.js": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/main.a947310f.chunk.js",
+  "main.js.map": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/main.a947310f.chunk.js.map",
+  "static/js/1.1ed06b5e.chunk.js": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/1.1ed06b5e.chunk.js",
+  "static/js/1.1ed06b5e.chunk.js.map": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/1.1ed06b5e.chunk.js.map",
+  "runtime~main.js": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/runtime~main.e03a78df.js",
+  "runtime~main.js.map": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/runtime~main.e03a78df.js.map",
+  "static/css/main.687fccb3.chunk.css.map": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/css/main.687fccb3.chunk.css.map",
+  "index.html": "//vinu8421293169.github.io/Mini-E-Commerce-app/index.html",
+  "precache-manifest.4af0f79114cfaa80e9ccf7245fc39a5d.js": "//vinu8421293169.github.io/Mini-E-Commerce-app/precache-manifest.4af0f79114cfaa80e9ccf7245fc39a5d.js",
+  "service-worker.js": "//vinu8421293169.github.io/Mini-E-Commerce-app/service-worker.js"
 }
