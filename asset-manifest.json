@@ -1,13 +1,13 @@
 {
-  "main.css": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/css/main.687fccb3.chunk.css",
-  "main.js": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/main.e3cfe2de.chunk.js",
-  "main.js.map": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/main.e3cfe2de.chunk.js.map",
-  "static/js/1.1ed06b5e.chunk.js": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/1.1ed06b5e.chunk.js",
-  "static/js/1.1ed06b5e.chunk.js.map": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/1.1ed06b5e.chunk.js.map",
-  "runtime~main.js": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/runtime~main.e03a78df.js",
-  "runtime~main.js.map": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/js/runtime~main.e03a78df.js.map",
-  "static/css/main.687fccb3.chunk.css.map": "//vinu8421293169.github.io/Mini-E-Commerce-app/static/css/main.687fccb3.chunk.css.map",
-  "index.html": "//vinu8421293169.github.io/Mini-E-Commerce-app/index.html",
-  "precache-manifest.738b6b95df04804ed23f55197f643296.js": "//vinu8421293169.github.io/Mini-E-Commerce-app/precache-manifest.738b6b95df04804ed23f55197f643296.js",
-  "service-worker.js": "//vinu8421293169.github.io/Mini-E-Commerce-app/service-worker.js"
+  "main.css": "/Mini-E-Commerce-app/static/css/main.687fccb3.chunk.css",
+  "main.js": "/Mini-E-Commerce-app/static/js/main.33a5660b.chunk.js",
+  "main.js.map": "/Mini-E-Commerce-app/static/js/main.33a5660b.chunk.js.map",
+  "static/js/1.1ed06b5e.chunk.js": "/Mini-E-Commerce-app/static/js/1.1ed06b5e.chunk.js",
+  "static/js/1.1ed06b5e.chunk.js.map": "/Mini-E-Commerce-app/static/js/1.1ed06b5e.chunk.js.map",
+  "runtime~main.js": "/Mini-E-Commerce-app/static/js/runtime~main.96945869.js",
+  "runtime~main.js.map": "/Mini-E-Commerce-app/static/js/runtime~main.96945869.js.map",
+  "static/css/main.687fccb3.chunk.css.map": "/Mini-E-Commerce-app/static/css/main.687fccb3.chunk.css.map",
+  "index.html": "/Mini-E-Commerce-app/index.html",
+  "precache-manifest.a80a0e5a5a55dbe0233eb12af786c322.js": "/Mini-E-Commerce-app/precache-manifest.a80a0e5a5a55dbe0233eb12af786c322.js",
+  "service-worker.js": "/Mini-E-Commerce-app/service-worker.js"
 }
